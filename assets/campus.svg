@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 610" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering College campus</title>
+  <desc id="desc">A warm illustration of a modern college workshop framed by trees, with a bright orange sun and student silhouettes.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="0" y1="0" y2="1"><stop stop-color="#10252e"/><stop offset="1" stop-color="#273239"/></linearGradient>
+    <linearGradient id="wall" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#e8dcc5"/><stop offset="1" stop-color="#c5ad84"/></linearGradient>
+  </defs>
+  <path fill="#16252b" d="M0 0h680v610H0z"/>
+  <path fill="url(#sky)" d="M0 0h680v450H0z"/>
+  <circle cx="516" cy="126" r="52" fill="#c9a86a"/>
+  <path fill="#384b45" d="M0 359c84-47 151-47 236 0s174 48 260-2 128-46 184-18v167H0z"/>
+  <path fill="#293d38" d="M0 417c89-57 173-35 247 3s147 28 216-8 145-39 217-7v103H0z"/>
+  <path fill="url(#wall)" stroke="#314e45" stroke-width="5" d="M172 250h340v217H172z"/>
+  <path fill="#8a6c45" stroke="#c9a86a" stroke-width="5" d="m142 258 201-112 199 112z"/>
+  <path fill="#c9a86a" d="M306 173h74v20h-74z"/>
+  <path fill="#d8c6a4" stroke="#66563b" stroke-width="5" d="M204 292h110v78H204zM327 292h152v143H327z"/>
+  <path stroke="#816d49" stroke-width="6" d="M240 294v75m36-75v75M330 338h145m-110-44v141m63-141v141"/>
+  <path fill="#710912" d="M327 381h152v54H327z"/>
+  <path fill="#30221f" d="M333 386h13v49h-13zm136 0h10v49h-10z"/>
+  <path fill="#c9a86a" stroke="#66563b" stroke-width="5" d="M152 467h382"/>
+  <path fill="#796b46" d="M67 325c-22-78 3-139 48-165 44 24 68 87 46 165z"/>
+  <path fill="#4a5742" d="M60 326c-3-69 27-118 55-137 30 25 49 83 37 137z"/>
+  <path fill="#30221f" d="M107 319h14v160h-14z"/>
+  <path fill="#796b46" d="M523 340c-18-66 3-120 40-140 38 24 55 80 37 140z"/>
+  <path fill="#4a5742" d="M516 342c-2-58 24-104 49-123 26 23 43 73 32 123z"/>
+  <path fill="#30221f" d="M550 335h13v126h-13z"/>
+  <path fill="#c9a86a" d="M256 449c0-15 9-25 20-25s20 10 20 25v30h-40z"/>
+  <circle cx="276" cy="414" r="14" fill="#995f4c"/>
+  <path fill="#710912" d="M249 447h55l13 53h-80z"/>
+  <path stroke="#344f46" stroke-linecap="round" stroke-width="7" d="m266 499-5 41m31-41 9 41m-54-68-22 26"/>
+  <path fill="#a97b55" d="M397 453c0-14 8-23 19-23s19 9 19 23v30h-38z"/>
+  <circle cx="416" cy="420" r="13" fill="#654b3f"/>
+  <path fill="#344c50" d="M390 451h52l14 50h-78z"/>
+  <path stroke="#344f46" stroke-linecap="round" stroke-width="7" d="m405 500-7 39m28-39 7 39m8-47 22 17"/>
+  <path fill="#c6ae82" d="M0 545h680v65H0z"/>
+  <path fill="#30221f" d="M0 548h680v6H0z"/>
+  <path fill="#710912" d="M40 581h54v8H40zm548 0h54v8h-54z"/>
+</svg>
