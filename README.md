@@ -12,6 +12,7 @@ The visual identity combines dark-academia midnight blue and charcoal with warm 
 - [Student life](./student-life.html) — campus and club updates with a topic filter.
 - [Contact](./contact.html) — contact channels and a validated contact form.
 - [Registration](./registration.html) — prospective student registration with inline validation.
+- [Quality evidence](./quality-evidence.pdf) — seven annotated screenshots of desktop/mobile layouts, forms, and program filtering.
 
 ## Features
 
@@ -42,4 +43,4 @@ This repository is configured for GitHub Pages from the `main` branch, root fold
 
 ## Attribution
 
-The campus illustration is original SVG artwork created for this project. The dark-academia collage is original CSS artwork; it evokes general study, candlelight, clock, chess, and gold motifs without reusing the supplied reference image. No third-party photos or code snippets are used. Bootstrap 5.3.3 and Google Fonts (Cormorant Garamond and DM Sans) are externally hosted dependencies; their respective project and font licenses apply.
+The campus illustration is original SVG artwork created for this project. The dark-academia collage is original CSS artwork; it uses broad study, candlelight, crown, clock, marble, chess, rose, gold, and mask motifs rather than reusing the supplied reference image. No third-party photos or code snippets are used. Bootstrap 5.3.3 and Google Fonts (Cormorant Garamond and DM Sans) are externally hosted dependencies; their respective project and font licenses apply.

@@ -32,7 +32,7 @@
     const fields = {
       fullName: { input: registration.elements.fullName, error: '#fullNameError', message: 'Enter your full name.' },
       studentEmail: { input: registration.elements.email, error: '#studentEmailError', message: 'Enter a valid email address.' },
-      studentPhone: { input: registration.elements.phone, error: '#studentPhoneError', message: 'Enter a phone number using 7–20 digits or common phone symbols.' },
+      studentPhone: { input: registration.elements.phone, error: '#studentPhoneError', message: 'Enter a phone number using 7–20 digits, spaces, plus signs, or hyphens.' },
       desiredProgram: { input: registration.elements.program, error: '#desiredProgramError', message: 'Choose a program.' },
       studyMode: { input: registration.querySelector('input[name="studyMode"]'), error: '#studyModeError', message: 'Choose a study mode.' },
       intakeDate: { input: registration.elements.intake, error: '#intakeDateError', message: 'Choose your intended intake date.' },
